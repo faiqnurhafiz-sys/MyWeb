@@ -13,3 +13,12 @@ body{
     padding: 20px;
     max-width: 600px;
 }
+
+.kartu-profil img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.kartu-profil {
+    text-align: center;
+}
